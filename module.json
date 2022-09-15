@@ -1,0 +1,16 @@
+{
+  "id": "email-whitelist",
+  "name": "E-Mail Whitelist",
+  "description": "The email whitelist module allows you to specify email rules for users who don't need to be approved after registration.",
+  "keywords": [
+    "email",
+    "whitelisting",
+    "approval"
+  ],
+  "version": "1.0.1",
+  "humhub": {
+    "minVersion": "1.4"
+  },
+  "homepage": "https://github.com/humhub/humhub-modules-email-whitelist",
+  "screenshots": []
+}
